@@ -1,2 +1,8 @@
 # hello-world
-This is a sample and test repo
+
+
+Hey Guys!
+
+This is a sample branching activity.
+
+Thanks!
